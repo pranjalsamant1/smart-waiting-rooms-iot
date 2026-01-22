@@ -23,7 +23,7 @@ The system is built around:
 
 ## System Architecture
 
-![System Architecture](assets/images/system_architecture.png)
+![System Architecture](assets/images/system_architecture.avif)
 
 ### Data Flow
 1. **Sensing Node** detects an occupancy event using a push-button input  
@@ -75,8 +75,8 @@ The Node-RED dashboard provides:
 - Real-time event updates
 - A centralized view of the waiting room state
 
-![Dashboard Screenshot](assets/images/dashboard.png)
-
+![Dashboard_1Screenshot](assets/images/dashboard_1.avif)
+![Dashboard_2Screenshot](assets/images/dashboard_2.avif)
 
 ## Limitations
 
@@ -103,3 +103,4 @@ Graduate Engineer – Robotics & Embedded Systems
 
 GitHub: https://github.com/pranjalsamant1  
 LinkedIn: https://linkedin.com/in/pranjalsamant
+
