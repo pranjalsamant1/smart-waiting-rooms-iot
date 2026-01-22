@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://youtu.be/0Tc5uWn1qDc" target="_blank">
+    <img src="assets/images/" alt="Smart Waiting Rooms Demo" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <b>Click image to watch system demo</b>
+</p>
+
+
 # Smart Waiting Rooms – IoT Occupancy Monitoring System
 
 An **IoT-based monitoring system** designed to track **seat occupancy in hospital waiting rooms** in real time.  
@@ -103,4 +114,5 @@ Graduate Engineer – Robotics & Embedded Systems
 
 GitHub: https://github.com/pranjalsamant1  
 LinkedIn: https://linkedin.com/in/pranjalsamant
+
 
