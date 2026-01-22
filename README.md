@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://youtu.be/0Tc5uWn1qDc" target="_blank">
-    <img src="assets/images/" alt="Smart Waiting Rooms Demo" width="700"/>
+    <img src="assets/images/video_thumbnail.png" alt="Smart Waiting Rooms Demo" width="700"/>
   </a>
 </p>
 
@@ -114,5 +114,6 @@ Graduate Engineer – Robotics & Embedded Systems
 
 GitHub: https://github.com/pranjalsamant1  
 LinkedIn: https://linkedin.com/in/pranjalsamant
+
 
 
